@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/289850/b08999e546ac4b3388b1daf7c7afce94
+bundleId: https://api.rpubs.com/api/v1/document/289850/b08999e546ac4b3388b1daf7c7afce94
+url: http://rpubs.com/ylliprifti/289850
+when: 1499463731.64937
